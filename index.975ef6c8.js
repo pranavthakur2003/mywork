@@ -27182,7 +27182,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "Im a aspiring Web Developer and a Game Developer that uses UE5 ";
+ */ const description = "Im a aspiring Web Developer and a Game Developer that uses UE5 to make some interactive games and create cool websites";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -27198,7 +27198,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By using my game delopment skills and wen development skills.";
+ */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By using my game delopment skills and web development skills.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -28759,9 +28759,9 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "10 Things To Know About Azure Static Web Apps \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-        url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+        title: "Handtracker app i made using Python \uD83C\uDF89",
+        description: "Handtracker app that tracks your handgestures by using ML algorithms and other libraries .",
+        url: "https://github.com/pranavthakur2003/handtracker"
     },
     {
         title: "Web Development for Beginners",

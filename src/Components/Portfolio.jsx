@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "Voice Assistant Alexa",
     description:
-      "Made a voice assistant like Alexa tht can make you some good jokes listen to you , play songs , etc.",
+      "Made a voice assistant like Alexa tht can make you some good jokes listen to you , play songs,etc.",
     url: "https://github.com/pranavthakur2003/alexa",
   },
   {

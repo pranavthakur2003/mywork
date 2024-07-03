@@ -28775,7 +28775,7 @@ const imageAltText = "desktop with books and laptop";
     },
     {
         title: "Basic Car Game",
-        description: "A basic car game made using unity and the assets that are in it for a interactive game.",
+        description: "A basic car game made using unity and the assets that are in it for a interactive game .",
         url: "https://github.com/pranavthakur2003/basic-car-game"
     }, 
 ];

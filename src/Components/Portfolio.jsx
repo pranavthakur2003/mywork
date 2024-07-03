@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Handtracker app i made using Python 🎉",
     description:
-      "Handtracker app that tracks your handgestures by using ML algorithms and other libraries .",
+      "Handtracker app that tracks your handgestures by using ML algorithms and other libraries for making it.",
     url: "https://github.com/pranavthakur2003/handtracker",
   },
   {

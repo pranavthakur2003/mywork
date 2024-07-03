@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Im a aspiring Web Developer and a Game Developer that uses UE5 ";
+  "Im a aspiring Web Developer and a Game Developer that uses UE5 to make some interactive games and create cool websites";
 
 /**
  * List of some of skills or technologies you work on, are learning,

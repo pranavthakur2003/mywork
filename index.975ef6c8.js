@@ -28760,7 +28760,7 @@ const imageAltText = "desktop with books and laptop";
  */ const projectList = [
     {
         title: "Handtracker app i made using Python \uD83C\uDF89",
-        description: "Handtracker app that tracks your handgestures by using ML algorithms and other libraries .",
+        description: "Handtracker app that tracks your handgestures by using ML algorithms and other libraries for making it.",
         url: "https://github.com/pranavthakur2003/handtracker"
     },
     {

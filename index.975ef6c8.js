@@ -28765,7 +28765,7 @@ const imageAltText = "desktop with books and laptop";
     },
     {
         title: "Voice Assistant Alexa",
-        description: "Made a voice assistant like Alexa tht can make you some good jokes listen to you , play songs , etc.",
+        description: "Made a voice assistant like Alexa tht can make you some good jokes listen to you , play songs,etc.",
         url: "https://github.com/pranavthakur2003/alexa"
     },
     {
@@ -28774,9 +28774,9 @@ const imageAltText = "desktop with books and laptop";
         url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
     },
     {
-        title: "GitHub Codespaces and github.dev",
-        description: "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-        url: "https://www.youtube.com/watch?v=c3hHhRME_XI"
+        title: "Basic Car Game",
+        description: "A basic car game made using unity and the assets that are in it for a interactive game.",
+        url: "https://github.com/pranavthakur2003/basic-car-game"
     }, 
 ];
 const Portfolio = ()=>{

@@ -28764,9 +28764,9 @@ const imageAltText = "desktop with books and laptop";
         url: "https://github.com/pranavthakur2003/handtracker"
     },
     {
-        title: "Web Development for Beginners",
-        description: "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-        url: "https://github.com/microsoft/web-dev-for-beginners"
+        title: "Voice Assistant Alexa",
+        description: "Made a voice assistant like Alexa tht can make you some good jokes listen to you , play songs , etc.",
+        url: "https://github.com/pranavthakur2003/alexa"
     },
     {
         title: "My Resume Site",

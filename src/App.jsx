@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Pranav Thakur",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Web Developer and Game Developer",
+  email: "pranavlbthalur@gmail.com",
+  gitHub: "pranavthakur2003",
+  instagram: "pranavthakur",
+  linkedIn: "pranavfifteen",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
